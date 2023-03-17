@@ -1,0 +1,21 @@
+.bg-header {
+    background-color: #e5fae9 !important ; 
+}
+footer {
+    background-color: #6c757e;
+}
+
+.btn-verde{
+    background-color: #28a744;
+}
+.bg-modal{
+    background-color: #f5f9fc;
+}
+.border-modal{
+    border: solid 1px #e5e9ec;
+}
+
+ul {
+    list-style-type: none;
+}
+
