@@ -4,18 +4,30 @@
 footer {
     background-color: #6c757e;
 }
-
-.btn-verde{
+.btn-verde {
     background-color: #28a744;
+    border: none;
+    color: white;
+    width: 100%;
 }
 .bg-modal{
     background-color: #f5f9fc;
 }
 .border-modal{
     border: solid 1px #e5e9ec;
+    border-radius: 4px;
+}
+.w-93{
+    width: 93%;
 }
 
-ul {
-    list-style-type: none;
+.w-90{
+    width: 90%;
 }
-
+a {
+    text-decoration: none;
+    color: white;
+}
+.verde {
+    background-color: #e5fae9 !important ; 
+}
